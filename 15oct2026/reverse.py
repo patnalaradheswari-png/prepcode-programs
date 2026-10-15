@@ -1,3 +1,3 @@
 a = [1,2,3,2,1,2]
 a.reverse()
-print
+print(a)
